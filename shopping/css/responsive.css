@@ -1,0 +1,57 @@
+/*               for mobile           */
+
+@media only screen and (max-width: 767px) {
+    
+    .head-beep h1{
+        text-align: right  !important;
+        margin-right: 40%;
+    }
+    
+    .profile i{
+        text-align: left;
+      
+    }
+    .profile p{
+        text-align: right;
+        margin-right: 65%;
+    }
+
+    .cart i{
+        text-align: left;
+        margin-left: 20%;
+    }
+
+    .cart h1{
+        text-align: right;
+        margin-right: 55%;
+    }
+    .phots h3{
+        text-align: left;
+        margin-left: 0px;
+    }
+    .search i{
+        text-align: left;
+        margin-left: 20%;
+
+    }
+    .category a{
+        display: none;
+    }
+    .category hr{
+        display:none;
+    }
+    .navvv select{
+        display: inline;
+    }
+    .beep h1{
+         text-align: right;
+         margin-right: 45%;
+    }
+}
+
+
+/*               for desktop         */
+
+@media only screen and (min-width: 1024px) {
+      
+}
